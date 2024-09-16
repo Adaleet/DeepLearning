@@ -1,5 +1,6 @@
 
-Welcome! This repository contains notes, code, and assignments related to the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by Coursera, designed by Andrew Ng.
+# Welcome! 
+This repository contains notes, code, and assignments related to the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by Coursera, designed by Andrew Ng.
 
 ## Course Overview
 
